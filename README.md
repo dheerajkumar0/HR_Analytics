@@ -14,5 +14,5 @@ Total insight for the HR Department
 
 4.They can also see Department wise how many people leave how many people loyal and working with for last how many year
 
-5. This dasboard completely Dynamic we have use one interactive filter and also use action filter
+5.This dasboard completely Dynamic we have use one interactive filter and also use action filter
  
